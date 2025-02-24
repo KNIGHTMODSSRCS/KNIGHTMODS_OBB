@@ -43,8 +43,5 @@ bash setup
 ![Result](/screenshot/beforeafter_repacking.jpg)
 
 # Credits
-### knightmods
-### Shahid Sindhi
-### Junaid Jagirani
-
-### Subscribe to my YouTube channel to get updated script 
+### @KNIGHT_HARSH
+### @KNIGHTM0DS
